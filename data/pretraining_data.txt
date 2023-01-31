@@ -1,0 +1,155 @@
+Mitsubishi Lv16-RV with Hass;https://oshwlab.com/vienkmt/smartfan
+IoT Smart Display;https://oshwlab.com/Swinbkh/mqtt-smart-display
+ESP32-S2 Minimal Dev Board V2;https://oshwlab.com/Miraculix200/esp32-s2-test_copy
+ESP-12F-7SSR;https://oshwlab.com/Eypw/esp-12f-ac-power_copy
+ESP32-ETH01 Carrier v1;https://oshwlab.com/ms-evans/d1-carrier_copy_copy
+ESP-12F Current Logger;https://oshwlab.com/Miraculix200/ina226-test
+Bestway wifi controller;https://oshwlab.com/Visualapproach/bestway-wifi-controller
+esp32 board;https://oshwlab.com/fml1366569/esp32_board_FmiL
+ESPboy_v4.2;https://oshwlab.com/ESPboy/espboy_v4-2
+ESP8266 + PNP sensor 0.4;https://oshwlab.com/polaski/esp8266-pnp-sensor-0-4
+ESP32S2-TNC;https://oshwlab.com/GabeH/esp32s2-tnc
+Intercom v3;https://oshwlab.com/scrators/intercom
+MySensors GATE ESP12F;https://oshwlab.com/a.kivenko/mysensors_gw_nodemcu_copy_copy_copy
+esp_hse;https://oshwlab.com/edmamaev/esp_hse
+esp bta41600 temperature sensor;https://oshwlab.com/SergeyKr/esp-bti41600
+Electra ESP;https://oshwlab.com/Gibonii/electra-ia003-ia01-esp
+Breadboard friendly ESP-12F;https://oshwlab.com/Miraculix200/esp12-minimal-with-headers_copy_copy
+ESP8266 ESPHome;https://oshwlab.com/tintin/esp8266-temp-board
+SlimeVR V2.0;https://oshwlab.com/SlimeVR-MizuiroNeko/slimevr_copy_copy
+Skjoldur;https://oshwlab.com/haflidi.asgeirsson/skjoldur
+slimevr based on qmi8610;https://oshwlab.com/deableo/slimevr-based-on-qmi8610
+ESP32-S3 (WROOM) Dev;https://oshwlab.com/Miraculix200/esp32-s3-mini_copy
+ESP-GPS-Tracking gps V. 5 pin;https://oshwlab.com/chakkarin.tum/esp-gps-tracking
+16 5v nodemcu;https://oshwlab.com/hady011200/smart2
+Oxy-cube;https://oshwlab.com/salcox/oxy-cube
+Proyecto Venezuela 6.0;https://oshwlab.com/omar9810hg/proyecto-venezuela_copy_copy_copy_copy_copy
+ESP32 LED + Stepper + RGB Strip;https://oshwlab.com/farukcorreia/esp32-led-stepper
+RFID-Console_ESP32;https://oshwlab.com/jrousis/rfid-console_esp32
+ESP32 DEV Board new;https://oshwlab.com/technolabcreationindia/esp32-dev-board-new
+EPEver-RS485-ESP_final;https://oshwlab.com/haderralf/epever-rs485-esp_version2_copy
+meu1oarm;https://oshwlab.com/MARCODEOLI/meu1oarm
+ESP32-Dash;https://oshwlab.com/EV-Team/SPI-Isolator-Tesla-Shunt_copy_transfer
+ESP32-S3-BOY;https://oshwlab.com/chcbaram/esp32-s3_baram
+LAST PROF K;https://oshwlab.com/aboodishaq89/last-prof-k
+enc28j60_ethernet_smt_module;https://oshwlab.com/sctmayberry/ethernet_raspi
+sensor board;https://oshwlab.com/sandeepsonskar/sensor-board
+FluidNC 4x TMC2209 Chips;https://oshwlab.com/bdring/tmc2130-2-axis_copy_copy
+ESP32-C3-12F Breakout Board;https://oshwlab.com/bilekj/esp-c3-12f-breakout-board
+Sonictech_GUI_3.5;https://oshwlab.com/dlugaz/sonictech_gui_3-5
+ESP32_S DEV BOARD;https://oshwlab.com/cost.co/esp32_dev
+Low-Cost-Weather-Station;https://oshwlab.com/gui.br57/low-cost-weather-station
+ESP32 with Motor Control;https://oshwlab.com/tommybdog/esp32withmotorcontrol
+ESP8266-env_sensor;https://oshwlab.com/petrox.doczy/esp8266-ikea_copy
+FluidNC Pen Laser TMC2209 Drivers;https://oshwlab.com/bdring/tmc2130-2-axis_copy_copy_copy
+Wheather_Nano_NRF;https://oshwlab.com/lsgraf84/wheather_nano_nrf
+WeatherStationLM1117;https://oshwlab.com/sergiuv/WeatherStation_copy_copy
+ESP-12F midi;https://oshwlab.com/moonfox73/esp-12f-midi
+ESP32 IOT Shield;https://oshwlab.com/sharmaz747/esp8266-iot-shield_copy
+3.3v ESP-01 Relay;https://oshwlab.com/quicazan/3-3v-reg
+weather station copy;https://oshwlab.com/akshajraut/weather-station_copy
+WLED control with ESP32;https://oshwlab.com/fazleyelehi/rgb-control-with-esp32
+mqTrains Turnout wNano;https://oshwlab.com/nambabwe/mqtrains_2pca_copy_copy_copy
+UAM2 Wireless;https://oshwlab.com/dlindsey1952/uam-front-end
+FScope 250k5-V2-Rev3;https://oshwlab.com/fruitloop57/fscope-250k5-v2_copy_copy
+DoIP;https://oshwlab.com/jirble2/desk
+New Project;https://oshwlab.com/zayphyoec/GSM-GPS
+WorldClock;https://oshwlab.com/andreacattari/worldclock
+Holocube;https://oshwlab.com/fedy0/game2048
+ESP32 SPI TFT shield;https://oshwlab.com/igor.silenock/esp8266-tft_copy
+ADUM3160 USB Isolator;https://oshwlab.com/wagiminator/adum3160-usb-isolator
+8Bit Video Card;https://oshwlab.com/peterw8102/8bit-video-card
+ATtiny13 TinyRadio;https://oshwlab.com/wagiminator/attiny13-tinyradio
+FluidNC CNC Controller ESP32 TMC2310;https://oshwlab.com/bdring/tmc2130-2-axis
+USB-C to 1541-II Power Adapter;https://oshwlab.com/wagiminator/usb-c-to-1541-ii-power-adapter
+LiPo Battery Charger - MCP73831;https://oshwlab.com/markus_jidoka/lipo-battery-charger-mcp73831-with-load-sharing-v2-0
+Mesh sensor;https://oshwlab.com/1andonlytravis/mesh-sensor
+BlueZero RotorHazard;https://oshwlab.com/asymmetriccube/bluezero-rotorhazard
+mini-lamp (ESP-12 based);https://oshwlab.com/scaytrase/mini-lamp_copy
+Garden Water Controller;https://oshwlab.com/daniel.whitney/WaterBox
+Arduino Mega 2560-ESP12;https://oshwlab.com/juan.celeita/arduino-mega-2560-esp12
+MQ3sensor_with_LCD;https://oshwlab.com/syeda12/mq3sensor_with_lcd
+ESP32 DIN Rail;https://oshwlab.com/zoli_4316/kapu_copy_copy
+Arduino Nano 33 IoT Shield for Nixie Clock;https://oshwlab.com/Ratti3/in-18-hv5530-nixie-clock-shield
+IoT Sprinkler Node;https://oshwlab.com/shanisma/pk-node-sprinkler
+HYESILYURT_ESP32_FULL_DEVRE_DENEME_KARTI;https://oshwlab.com/srhnaslan/hyesilyurt_esp32_full_devre_deneme_karti
+DINBoard_3;https://oshwlab.com/crushyar/dinboard_copy_copy
+graduation project;https://oshwlab.com/abanoub-magdy/graduation-project
+240V ESP32;https://oshwlab.com/leroyoost/power-supply
+Arduino Nano 33 IoT Shield for Nixie Clock;https://oshwlab.com/Ratti3/arduino-nano-33-iot-shield-for-nixie-clock
+Osciloscopio dos canales;https://oshwlab.com/a20185398/osciloscopio-dos-canales
+variateur de vitesse;https://oshwlab.com/hedil.mrabet/teestttss
+Automatic Meter Reading;https://oshwlab.com/jsebachapa.94/automatic-meter-reading
+AtTinyEspMotionsensor;https://oshwlab.com/megaoldgeek/motionsensor
+capteurCo2mini;https://oshwlab.com/laurent.chastain/capteurco2mini
+Esp cooker_improvement;https://oshwlab.com/ngocdd/esp-cooker_improvement
+ESP WROOM 32 Breakout;https://oshwlab.com/oleg.tchurilo/esp-wroom-32-breakout
+Processing Module B;https://oshwlab.com/luizbertucciborges/processing-module_copy
+auto matic door lock;https://oshwlab.com/neways3apon/apon
+ESP32-S3 (WROOM) Small Dev;https://oshwlab.com/Miraculix200/esp32-s3-mini
+Bestway Wi-Fi Controller 2;https://oshwlab.com/visualapproach/bestway-wireless-controller-2
+schematic;https://oshwlab.com/nazib91/schematic
+IoT Water Tank node;https://oshwlab.com/shanisma/og-water-nutrient-ph
+PCB using breakouts with Aux;https://oshwlab.com/none937/slimevr_pcb
+788as_o Dot Led Matrix;https://oshwlab.com/a.a.mkrtchyan/788as_o
+Smart Switch With ESP32;https://oshwlab.com/kdpuvvadi/esp32-switch
+ESP8266 programmer board;https://oshwlab.com/erickdaviddiaz180/esp8266-programmer-board
+Esp-01 + AQH;https://oshwlab.com/americoime/esp01-com-aqh_copy
+Slacker;https://oshwlab.com/herryholster/chiken
+NCMate-4;https://oshwlab.com/luethich80/FlowNC-MK1
+PCI - FONTE - Lab. Elt 1;https://oshwlab.com/mcrmc/pci-fonte-lab-elt-1
+2ch homeautomation esp32,iot;https://oshwlab.com/technolabcreationindia/4ch-homeautomation-esp32
+Triforce LED;https://oshwlab.com/jeffeb3/triforce2
+ycce iot cooler;https://oshwlab.com/sandeepsonskar/ycce-iot-cooler
+sinhroboxSTM_Lan_V2 toMax;https://oshwlab.com/gaston80x0/sinhroboxstm_copy_copy_copy
+015-8_Relais;https://oshwlab.com/manudax/015-8_relais
+Small sewage treatment plant;https://oshwlab.com/bobobo007/cisticka-_v06-001
+esp12_ReedSwtich_Sensor;https://oshwlab.com/cakeng/esp12_sensor
+PCB zaverecna praca;https://oshwlab.com/momichal12/pcb-zaverecna-praca
+6Axis_PK;https://oshwlab.com/PhilippEBZ/6axis_pk
+Calendar;https://oshwlab.com/jonabuck2/calendar
+Z80_SMD_100pin;https://oshwlab.com/kensegler/z80_smd_copy
+Habit Chair;https://oshwlab.com/khohzongeu/habit-chair
+dailygrip;https://oshwlab.com/pomperthijs/dailydrip
+HDesp32;https://oshwlab.com/teslamm/hdesp32
+P2022_PAP4D08A;https://oshwlab.com/lilia.arceli/pap01
+medley2;https://oshwlab.com/medleyxee/medley2
+Octocore2-1;https://oshwlab.com/Rosmo/octocore2-1
+LightScader 1.2;https://oshwlab.com/robdobsn/lightscader-1-2
+medley one;https://oshwlab.com/medleyxee/medley-one
+LiamNG_V1.2;https://oshwlab.com/jonasforssell/Liam5_Shield-moUbtnFzR_copy_copy_copy
+Easy Reticulation Controller V2;https://oshwlab.com/james_6977/easy-reticulation-controller-v2
+suiveur;https://oshwlab.com/madriadhrid/suiveur
+smart extension box;https://oshwlab.com/medleyxee/first-edition
+ESP32-S2 Dev Board;https://oshwlab.com/Stratos/esp-32-s2-dev-board
+GateKeeperIOT;https://oshwlab.com/nicodemosbr/gatekeeperiot
+TOUCH Switch V0.0;https://oshwlab.com/dkkcl/touch_copy
+Capstone;https://oshwlab.com/gavynklein/capstone
+Franzininho WiFi LAB01;https://oshwlab.com/fabiosouza/shield-franzininho-wifi
+ESP8266 Temperature and humidity sensor;https://oshwlab.com/valentincabanes82/esp8266_temp_sensor
+Ameba Stamp - 5G WiFi & BLE MCU;https://oshwlab.com/xidameng/amebanano
+pcb ing;https://oshwlab.com/joatandavid01/general_copy
+DINBoard;https://oshwlab.com/crushyar/dinboard
+wegabox-4.4;https://oshwlab.com/siv237/esp32wega4-2_copy_copy_copy
+Home automation with esp8266;https://oshwlab.com/saadmedo516/home-automation-with-esp8266
+RJ45 Extension;https://oshwlab.com/arslan.aa7/rj45-extension
+IoT Smart Watering Slave;https://oshwlab.com/arslan.aa7/iot-smart-watering-slave
+IoT Smart Watering;https://oshwlab.com/arslan.aa7/iot-smart-watering
+EnvSensor;https://oshwlab.com/takashim/envsensor
+ESP-Alexa-Atx-power;https://oshwlab.com/arslan.aa7/esp-alexa-atx-power
+GreenHouse;https://oshwlab.com/belalex.9132788/greenhouse
+Intercom v4;https://oshwlab.com/scrators/intercom_copy_copy
+ESP32_TREADMILL_FTMS;https://oshwlab.com/zingo_1902/esp32_ttgo_display
+QiU MVP;https://oshwlab.com/xpcker/qiu-mvp
+ESP12 E smart switch;https://oshwlab.com/dewanganram168/esp12-e-smart-switch
+aaaaaazibegna;https://oshwlab.com/CoriambiManaswin/aaaaaazibegna
+SLS Gate;https://oshwlab.com/Wiinart/sls-gate
+esp_xbee;https://oshwlab.com/cvegacristian/esp_xbee
+Automatic Pet-Feeder_v212;https://oshwlab.com/michaelbtng5/new-project_21_copy
+ESP-12F OLED Watch;https://oshwlab.com/manasmw333/esp-12f-oled-watch
+smart_home;https://oshwlab.com/gjvernaza/smart_home
+ESP32 S3 Development Board;https://oshwlab.com/dewanganram168/esp32-devboard
+Hetken_v2;https://oshwlab.com/Ran_Shahar/hetken_v2
+ESP8266 WS2812 light;https://oshwlab.com/giordano.wolaniuk/esp8266-ws2812-light
+Egg Incubator V1.0.0;https://oshwlab.com/mohammedashad23/egg-incubator-v1-0-0
+GSM Alarm;https://oshwlab.com/poison/gsm-alarm

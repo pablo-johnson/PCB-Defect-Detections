@@ -1,0 +1,11 @@
+finetunning-dataset-20-256x256/without_errors/84-179.png
+finetunning-dataset-20-256x256/without_errors/96-234.png
+finetunning-dataset-20-256x256/without_errors/92-211.png
+finetunning-dataset-20-256x256/without_errors/95-226.png
+finetunning-dataset-20-256x256/without_errors/95-229.png
+finetunning-dataset-20-256x256/without_errors/94-224.png
+finetunning-dataset-20-256x256/without_errors/85-184.png
+finetunning-dataset-20-256x256/without_errors/96-231.png
+finetunning-dataset-20-256x256/without_errors/93-216.png
+finetunning-dataset-20-256x256/without_errors/94-221.png
+finetunning-dataset-20-256x256/without_errors/93-219.png
